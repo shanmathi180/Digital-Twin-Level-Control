@@ -6,6 +6,9 @@
 ## Overview
 
 This project presents a **Digital Twin Assisted Gain-Scheduled Level Control System** for maintaining the liquid level in a cylindrical process tank used in chemical process industries. The system combines advanced process control techniques with a real-time web-based digital twin to improve monitoring, control accuracy, and user interaction.
+## Web Dashboard
+
+![Web Dashboard](Digital_twin_img.png)
 
 ## Objective
 
