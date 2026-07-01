@@ -59,7 +59,8 @@ The primary objective of this project is to achieve accurate and stable liquid l
 ## Digital Twin
 
 A web-based digital twin was developed to represent the real-world level control system in a 3D environment. The digital twin receives live process data from the physical plant, displays the current liquid level in real time, allows users to modify the desired setpoint remotely, and predicts the time required for the tank to reach the specified level.
-![Digital Twin](Digital_twin.mp4)
+![Digital Twin](Digital_Twin.mp4)
+
 
 
 ## Project Outcome
