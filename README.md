@@ -1,6 +1,7 @@
 # Digital Twin Assisted Gain-Scheduled Level Control in Chemical Process Industries
 
-![MATLAB](https://img.shields.io/badge/Node.js-20+-orange)![Node.js](https://img.shields.io/badge/Node.js-20+-green)![Three.js](https://img.shields.io/badge/Three.js-3D-black)![Process Control](https://img.shields.io/badge/Control-IMC_PI_Controller-red)![Digital Twin](https://img.shields.io/badge/Digital-Twin-purple)![JavaScript](https://img.shields.io/badge/Node.js-20+-green)![Python](https://img.shields.io/badge/Node.js-20+-brown)
+![MATLAB](https://img.shields.io/badge/Node.js-20+-orange)![Node.js](https://img.shields.io/badge/Node.js-20+-green)![Three.js](https://img.shields.io/badge/Three.js-3D-black)![Process Control](https://img.shields.io/badge/Control-IMC_PI_Controller-red)![Digital Twin](https://img.shields.io/badge/Digital-Twin-purple)!![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 
 
 ## Overview
