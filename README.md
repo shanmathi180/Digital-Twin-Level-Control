@@ -47,6 +47,12 @@ The primary objective of this project is to achieve accurate and stable liquid l
 * Ultrasonic Sensor
 * Cylindrical Tank
 * Dc pump motor
+
+![Hardware Setup](H1.jpeg)
+![Hardware Setup](H2.jpeg)
+![Lab Hardware Setup](LH3.jpeg)
+
+
   
 
 
